@@ -1,0 +1,3 @@
+E:/future generations/2 курс 1 семестр/OOP C++/individual1/cmake-build-debug/CMakeFiles/individual1.dir
+E:/future generations/2 курс 1 семестр/OOP C++/individual1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/future generations/2 курс 1 семестр/OOP C++/individual1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
